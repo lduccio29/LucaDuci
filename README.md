@@ -5,24 +5,27 @@ I am a Master’s student in **Data Science** at the University of Milano–Bico
 ---
 
 ## 🎓 Education
+- **Technical Diploma in Information and Technology
+  Salesiani Sesto San Giovanni (E. Breda) (90/100)
 - **Bachelor’s Degree** in Statistical and Economic Sciences  
-  University of Milano–Bicocca (2022 – 2025), Graduation grade: 110/110 cum laude  
+  University of Milano–Bicocca (2019 – 2023), Graduation grade: 98/110
 - **Master’s Degree** in Data Science  
-  University of Milano–Bicocca (2025 – present)  
+  University of Milano–Bicocca (2023 - 2026)  
 
 ---
 
 ## 🔬 Research Interests
-- Computer Vision: image classification, Out-of-Distribution Detection, Self-supervised Learning  
-- Optimization: Linear Programming, Reinforcement Learning  
+- Natural Language Processing
+- LLMs (Lange Language Models)
+- Computer Vision: image classification, Self-supervised Learning  
+- Optimization: Linear Programming, Reinforcement Learning, Active Learning
 - Deep Learning and Neural Networks  
 - Data Pipelines and Automation  
-- Natural Language Processing  
 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, R  
+- **Programming Languages**: Python, R, SQL, PHP
 - **Libraries / Frameworks**:  
   - *Python*: pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
   - *R*: tidyverse (ggplot2, dplyr, tidyr), caret, Shiny  
@@ -31,23 +34,30 @@ I am a Master’s student in **Data Science** at the University of Milano–Bico
 ---
 
 ## 🚀 Featured Projects
-- [**Earthquake Classification**](https://github.com/aronetommaso/Data-Mining-Project)  
-  Project developed for the *Data Mining* exam, focused on classifying seismic events into earthquake and non-earthquake categories.  
 
-- [**Exoplanet Temperature Study**](https://github.com/aronetommaso/Computational-Statistic-Project)  
-  Project developed for the *Computational Statistics* exam, analyzing exoplanet temperatures using regression and classification models.
+- **Object Detection on Traffic Signs**  
+  Part of a wider project on digital signal processing including audio signal classification, image classification and object detection. Implementation of object detection on road signs using YOLOv8 in Google Colab with TensorFlow and OpenCV. Optimization of model parameters and performance evaluation on annotated datasets.
 
-- [**Bitcoin Market Analysis and News Integration**](https://github.com/aronetommaso/DataMan-Project)  
-  Project developed for the *Data Management* exam, focused on data storage, data modeling and market news integration.
+- **Sentiment Analysis on Amazon Fine Food Reviews**  
+  Analysis of the Amazon Fine Food Reviews dataset using clustering techniques (K-Means, Agglomerative Hierarchical) to group similar reviews. Development of a text summarization approach to extract key insights. Implementation of sentiment analysis using lexicon-based methods (VADER, AFINN) to evaluate review polarity.
 
-- [**Global Warming Analysis**](https://github.com/aronetommaso/DataViz-Project/tree/main)  
-  Project developed for the *Data Visualization* exam, focused on climate data visualization and trend analysis.
+- **Community Detection on Reddit**  
+  Data collection from Reddit API to build a dataset of posts and comments. Social network analysis using graph-based methods and community detection algorithms (Louvain, FluidC). Sentiment analysis on posts/comments and application of Named Entity Recognition (NER) and Named Entity Linking (NEL) to extract relevant entities.
 
-- [**Tombola Montecarlo Simulation**](https://github.com/aronetommaso/TombolaSimulation)  
-  Individual project to simulate the Italian game *Tombola* using Monte Carlo methods.
+- **Smoke Dataset Classification**  
+  Supervised learning project aimed at predicting smoking status based on socio-demographic and medical data. Models include Random Forest, SVM and Logistic Regression with full performance evaluation.
+
+- **Image Classification on CIFAR-100**  
+  Development of a custom neural network for image classification on CIFAR-100. Experiments with CNN architectures, dropout regularization and data augmentation to improve model performance.
+
+- **Web Scraping and Data Management of Spotify Data**  
+  Data collection via web scraping (Billboard) and Spotify API. Data cleaning, integration and storage in MongoDB to build a structured dataset for further analysis.
+
+- **Analyzing LEGO Datasets with Tableau**  
+  Exploratory data analysis and visualization of LEGO datasets to identify trends in themes, colors and pricing over time. Creation of interactive dashboards using Tableau.
 
 ---
 
 ## 📫 Contacts
-- Email: **tommasoarone@gmail.com**  
-- LinkedIn: [linkedin.com/in/tommaso-arone](https://linkedin.com)  
+- Email: **luca.duci29@gmail.com**  
+- LinkedIn: [linkedin.com/in/luca-duci](https://linkedin.com)  
