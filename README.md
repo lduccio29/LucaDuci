@@ -1,6 +1,6 @@
-# Hi, I'm Tommaso Arone 👋
+# Hi, Luca Duci 👋
 
-I’m a first-year **Data Science** student at the University of Milano–Bicocca. Passionate about **data analysis**, **artificial intelligence**, and **machine learning**, I love turning numbers into actionable insights and developing increasingly accurate predictive models.  
+I am a Master’s student in **Data Science** at the University of Milano–Bicocca. Passionate about **data analysis**, **artificial intelligence**, and **machine learning**, I love turning data into actionable insights and developing increasingly accurate predictive models.
 
 ---
 
@@ -22,28 +22,32 @@ I’m a first-year **Data Science** student at the University of Milano–Bicocc
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: R, Python  
+- **Programming Languages**: Python, R  
 - **Libraries / Frameworks**:  
-  - *In R*: tidyverse (ggplot2, dplyr, tidyr), caret, Shiny  
-  - *In Python*: pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn  
-- **Databases & Tools**: SQL, Git & GitHub, Jupyter Notebook, RStudio, VS Code  
+  - *Python*: pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
+  - *R*: tidyverse (ggplot2, dplyr, tidyr), caret, Shiny  
+- **Tools & Databases**: SQL, Git & GitHub, Jupyter Notebook, RStudio, VS Code  
 
 ---
 
 ## 🚀 Featured Projects
 - [**Earthquake Classification**](https://github.com/aronetommaso/Data-Mining-Project)  
-  Project developed for the *Data Mining* exam, focused on classifying seismic events into *earthquake* and *non-earthquake*.  
+  Project developed for the *Data Mining* exam, focused on classifying seismic events into earthquake and non-earthquake categories.  
+
 - [**Exoplanet Temperature Study**](https://github.com/aronetommaso/Computational-Statistic-Project)  
-  Project developed for the *Computational Statistics* exam, analyzing exoplanet temperatures through regression and classification models.
-- [**Bitcoin Market Analysis and News Integration**](https://github.com/aronetommaso/DataMan-Project)
-  Project developed for the *Data Management* exam, focused on Data Management, Data Storage and Data Model.
-- [**Global Warming Analysis**](https://github.com/aronetommaso/DataViz-Project/tree/main)
-  Project developed for the *Data Visualization* exam, focused on data visualization, plotting.
-- [**Tombola Montecarlo Simulation**](https://github.com/aronetommaso/TombolaSimulation)
-  Project developed Individually to study and simulate the *Tombola* Italian game.
-  
+  Project developed for the *Computational Statistics* exam, analyzing exoplanet temperatures using regression and classification models.
+
+- [**Bitcoin Market Analysis and News Integration**](https://github.com/aronetommaso/DataMan-Project)  
+  Project developed for the *Data Management* exam, focused on data storage, data modeling and market news integration.
+
+- [**Global Warming Analysis**](https://github.com/aronetommaso/DataViz-Project/tree/main)  
+  Project developed for the *Data Visualization* exam, focused on climate data visualization and trend analysis.
+
+- [**Tombola Montecarlo Simulation**](https://github.com/aronetommaso/TombolaSimulation)  
+  Individual project to simulate the Italian game *Tombola* using Monte Carlo methods.
+
 ---
 
 ## 📫 Contacts
-- Email: _tommasoarone@gmail.com_  
+- Email: **tommasoarone@gmail.com**  
 - LinkedIn: [linkedin.com/in/tommaso-arone](https://linkedin.com)  
